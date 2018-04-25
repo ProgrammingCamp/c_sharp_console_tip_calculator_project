@@ -1,0 +1,5 @@
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+E:\Programming Camp\Desktop Application Development Training\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
